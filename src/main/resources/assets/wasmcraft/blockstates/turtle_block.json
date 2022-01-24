@@ -3,6 +3,6 @@
     "facing=south": { "model": "wasmcraft:block/turtle", "uvlock": false },
     "facing=west":  { "model": "wasmcraft:block/turtle", "y":  90, "uvlock": false },
     "facing=north": { "model": "wasmcraft:block/turtle", "y": 180, "uvlock": false },
-    "facing=east":  { "model": "wasmcraft:block/turtle", "y": 270, "uvlock": false }
+    "facing=east":  { "model": "wasmcraft:block/turtle", "y": 270, "uvlock": false },
   }
 }
